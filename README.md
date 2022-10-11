@@ -31,16 +31,13 @@
 ![Premiere](https://img.shields.io/badge/-Adobe%20Premiere-05122A?style=flat&logo=adobepremierepro)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-<br>
+<br><br><br>
 
 ## 📊 GitHub Analytics
-<p align="left>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedroGabriel02&show_icons=true&theme=vision-friendly-dark" alt="Pedro Gabriel stats"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroGabriel02&layout=compact&theme=vision-friendly-dark" alt="PedroGabriel most languages"/>
-</p>
+<div display:"inline_block">
+  <img align="center" width="500em" src="https://github-readme-stats.vercel.app/api?username=pedroGabriel02&show_icons=true&theme=vision-friendly-dark"/>
+  <img align="center" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroGabriel02&layout=compact&theme=vision-friendly-dark" alt="PedroGabriel most languages"/>
+</div>
 
-<!--
-https://github-readme-stats.vercel.app/api?username=pedroGabriel02&show_icons=true&theme=vision-friendly-dark"
 
--->
 ![Snake animation](https://github.com/pedroGabriel02/pedroGabriel02/blob/output/github-contribution-grid-snake.svg)
