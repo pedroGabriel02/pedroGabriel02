@@ -23,7 +23,13 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=007ACC)&nbsp;
 
+<br>
+
 ## ✒ Design Stacks
+![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
+![Premiere](https://img.shields.io/badge/-Adobe%20Premiere-05122A?style=flat&logo=adobepremierepro)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 <br>
 
