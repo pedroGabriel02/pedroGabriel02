@@ -35,8 +35,8 @@
 
 ## 📊 GitHub Analytics
 <div display:"inline_block">
-  <img align="center" width="500em" src="https://github-readme-stats.vercel.app/api?username=pedroGabriel02&show_icons=true&theme=vision-friendly-dark"/>
-  <img align="center" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroGabriel02&layout=compact&theme=vision-friendly-dark" alt="PedroGabriel most languages"/>
+  <img align="center" width="430em" src="https://github-readme-stats.vercel.app/api?username=pedroGabriel02&show_icons=true&theme=vision-friendly-dark"/>
+  <img align="center" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroGabriel02&layout=compact&theme=vision-friendly-dark" alt="PedroGabriel most languages"/>
 </div>
 
 
