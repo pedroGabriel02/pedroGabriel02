@@ -2,6 +2,19 @@
 <h1 align="left">Hello Word <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32px">, Pedro Gabriel aqui</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pedroGabriel02&color=blue" alt="Profile Views"/></p>
 
+- 💻 Desenvolvedor Front-End Júnior & Técnico em Informática
+
+- 📚 Estudante no curso técnico em informática no SENAC Sete Lagoas
+
+- 🚀 Freelancer em busca de uma oportunidade de estágio :) (curriculo em breve)
+
+- ⭐ Fã de heróis e animes, no meu tempo livre gosto de ler, desenhar e programar
+
+<br>
+
+## 🛠 Tech Stacks
+
+## ✒ Design Stacks
 
 <!--
 https://github-readme-stats.vercel.app/api?username=pedroGabriel02&show_icons=true&theme=vision-friendly-dark"
