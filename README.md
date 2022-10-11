@@ -16,6 +16,14 @@
 
 ## ✒ Design Stacks
 
+<br>
+
+## 📊 GitHub Analytics
+<p align="left>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedroGabriel02&show_icons=true&theme=vision-friendly-dark" alt="Pedro Gabriel stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroGabriel02&layout-compact&langs_count=16&theme=vision-friendly-dark" alt="Pedro Gabriel most languages"/>
+</p>
+
 <!--
 https://github-readme-stats.vercel.app/api?username=pedroGabriel02&show_icons=true&theme=vision-friendly-dark"
 
