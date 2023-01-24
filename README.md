@@ -2,7 +2,7 @@
 <h1 align="left">Hello Word <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32px">, Pedro Gabriel aqui</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pedroGabriel02&color=blue" alt="Profile Views"/></p>
 
-- 💻 Desenvolvedor Front-End Júnior & Técnico em Informática
+- 💻 Desenvolvedor Júnior & Técnico em Informática
 
 - 📚 Estudante no curso técnico em informática no SENAC Sete Lagoas
 
