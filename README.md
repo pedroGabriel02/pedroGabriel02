@@ -4,9 +4,7 @@
 
 - 💻 Desenvolvedor Júnior & Técnico em Informática
 
-- 📚 Estudante no curso técnico em informática no SENAC Sete Lagoas
-
-- 🚀 Freelancer em busca de uma oportunidade de estágio :) (curriculo em breve)
+- 👨‍💻 Trabalho como desenvolvedor de softwares na empresa Santi Solutions
 
 - ⭐ Fã de heróis e animes, no meu tempo livre gosto de ler, desenhar e programar
 
@@ -17,10 +15,15 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic&logoColor=007ACC)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visualstudio&logoColor=007ACC)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=007ACC)&nbsp;
 
 <br>
